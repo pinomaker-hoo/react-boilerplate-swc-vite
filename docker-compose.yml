@@ -1,7 +1,7 @@
 version: '3'
 services:
   react-app:
-    image: pinomaker/dice-frontend:latest
+    image:
     ports:
       - 80:80
     volumes:
